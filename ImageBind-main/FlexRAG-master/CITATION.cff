@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Zhang"
+    given-names: "Zhuocheng"
+    orcid: "https://orcid.org/0009-0004-4131-7968"
+  - family-names: "Feng"
+    given-names: "Yang"
+  - family-names: "Zhang"
+    given-names: "Min"
+title: "FlexRAG"
+doi: 10.5281/zenodo.14306983
+url: "https://github.com/ictnlp/FlexRAG"
