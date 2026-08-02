@@ -28,7 +28,6 @@ FlexRAG 是一个创新的开源框架，旨在简化 RAG（检索增强生成�
 - [✨ 框架特色](#-框架特色)
 - [🚀 框架入门](#-框架入门)
 - [🏗️ FlexRAG 架构](#️-flexrag-架构)
-- [📊 基准测试](#-基准测试)
 
 
 
@@ -50,6 +49,4 @@ FlexRAG 采用**模块化**架构设计，让您可以轻松定制和扩展框�
 <img src="assets/Framework-FlexRAGv3-zh.png" width=70%>
 </p>
 
-# 📊 基准测试
-我们利用 FlexRAG 进行了大量的基准测试，详情请参考 [benchmarks](benchmarks/README.md) 页面。
 
