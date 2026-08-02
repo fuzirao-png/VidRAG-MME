@@ -44,14 +44,6 @@ FlexRAG is an innovative open-source framework designed to streamline the rapid 
 </p>
 
 
-# 📢 News
-- **2025-06-17**: Our publication [FlexRAG: A Flexible and Comprehensive Framework for Retrieval-Augmented Generation](https://arxiv.org/abs/2506.12494) is now available!
-- **2025-03-24**: The Chinese documentation is now available! Please visit the [documentation](https://flexrag.readthedocs.io/zh-cn/latest/) for more details.
-- **2025-02-25**: FlexRAG's LocalRetriever now supports loading from the [HuggingFace Hub](https://huggingface.co/collections/ICTNLP/flexrag-retrievers-67b5373b70123669108a2e59).
-- **2025-01-22**: A new entrypoint `run_retriever` and four new information retrieval metrics (e.g., `RetrievalMAP`) are now available. Check out the [documentation](https://flexrag.readthedocs.io/en/latest/) for more details.
-- **2025-01-08**: We provide Windows wheels for FlexRAG. You can install FlexRAG via pip on Windows now.
-- **2025-01-08**: The benchmark of FlexRAG on Single-hop QA tasks is now available. Check out the [benchmarks](benchmarks/README.md) for more details.
-- **2025-01-05**: Documentation for FlexRAG is now available. Check out the [documentation](https://flexrag.readthedocs.io/en/latest/) for more details.
 
 # 🚀 Getting Started
 To install FlexRAG via pip:
@@ -77,33 +69,4 @@ We have conducted extensive benchmarks using the FlexRAG framework. For more det
 # 🏷️ License
 This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
-# 🖋️ Citation
-If you use FlexRAG in your research, please cite our project:
-```bibtex
-@software{Zhang_FlexRAG_2025,
-author = {Zhang, Zhuocheng and Feng, Yang and Zhang, Min},
-doi = {10.5281/zenodo.14593327},
-month = jan,
-title = {{FlexRAG}},
-url = {https://github.com/ictnlp/FlexRAG},
-year = {2025}
-}
-@misc{zhang2025flexragflexiblecomprehensiveframework,
-      title={FlexRAG: A Flexible and Comprehensive Framework for Retrieval-Augmented Generation}, 
-      author={Zhuocheng Zhang and Yang Feng and Min Zhang},
-      year={2025},
-      eprint={2506.12494},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2506.12494}, 
-}
-```
 
-# ❤️ Acknowledgements
-This project benefits from the following open-source projects:
-- [Faiss](https://github.com/facebookresearch/faiss)
-- [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)
-- [LanceDB](https://github.com/lancedb/lancedb)
-- [ANN Benchmarks](https://github.com/erikbern/ann-benchmarks)
-- [Chonkie](https://github.com/chonkie-ai/chonkie)
-- [rerankers](https://github.com/AnswerDotAI/rerankers)
